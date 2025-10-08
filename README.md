@@ -10,7 +10,7 @@ The goal of this repo is to serve as a **portfolio hub**, where I will keep addi
 ## ✅ Projects
 
 ### 1. Sales & Returns Dashboard
-**Folder:** [`sales-returns-dashboard`](./sales-returns-dashboard)  
+**Folder:** [`sales-returns-dashboard`](./PowerBI-Sales-Returns-Dashboard)
 - **Description:** Built using sales data (2020–2022), returns, and reference tables (customers, stores, products, and locations).  
 - **Key Features:**
   - Integrated multiple Excel sources into a single Power BI data model.  
